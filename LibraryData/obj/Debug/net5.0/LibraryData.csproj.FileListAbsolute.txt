@@ -1,0 +1,15 @@
+G:\Github\LibraryData\bin\Debug\net5.0\LibraryData.deps.json
+G:\Github\LibraryData\bin\Debug\net5.0\LibraryData.runtimeconfig.json
+G:\Github\LibraryData\bin\Debug\net5.0\LibraryData.runtimeconfig.dev.json
+G:\Github\LibraryData\bin\Debug\net5.0\LibraryData.dll
+G:\Github\LibraryData\bin\Debug\net5.0\ref\LibraryData.dll
+G:\Github\LibraryData\bin\Debug\net5.0\LibraryData.pdb
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.csproj.AssemblyReference.cache
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.AssemblyInfoInputs.cache
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.AssemblyInfo.cs
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.csproj.CoreCompileInputs.cache
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.dll
+G:\Github\LibraryData\obj\Debug\net5.0\ref\LibraryData.dll
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.pdb
+G:\Github\LibraryData\obj\Debug\net5.0\LibraryData.genruntimeconfig.cache
