@@ -1,0 +1,35 @@
+﻿@model MedicalApi.Models.Medicine.AssetIndexModel
+
+
+<h1>@ViewBag.Title</h1>
+<div id="assets">
+    <h3>Medicine Catalog</h3>
+    <div id="assetsTable">
+        <table class="table table-condensed" id="catalogIndexTable">
+            <thead>
+                <tr>
+                    <th>Image</th>
+                    <th>Title</th>
+                    <th>Dewey Call Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var asset in Model.Assets)
+                {
+                <tr class="assetRow">
+                    <td class="medicalimg">
+                        <a asp-controller="Medicine" asp-action="Detail" asp-route-id="@asset.Id">
+                            <img src="@asset.ImageUrl" class="imageCell w-50">
+
+                        </a>
+                    </td>
+                    <td class="font-weight-bold">@asset.Title</td>
+                    <td class="font-weight-bold">@asset.AuthorOrDirector</td>
+                    <td class="font-weight-bold">@asset.DeweyCallNumber</td>
+
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>
